@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devin de Silva</h1>
-<h3 align="center">Enthusiastic Sri Lankan backend developer eager to contribute to innovative projects</h3>
+<h3 align="center">Enthusiastic Sri Lankan developer eager to contribute to innovative projects</h3>
 
 - 🌱 I’m currently learning **AI/ML, Swarm Intelligence**
 

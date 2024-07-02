@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devin de Silva</h1>
 <h3 align="center">Enthusiastic Sri Lankan developer eager to contribute to innovative projects</h3>
 
-- 🌱 I’m currently learning **AI/ML, Swarm Intelligence**
+- 🌱 I’m currently learning **AI/ML, Swarm Intelligence, Big Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevinHansa](https://github.com/DevinHansa)
 
-- 💬 Ask me about **Node.js,Express.js, MongoDB, Java**
+- 💬 Ask me about **Generative AI, Natural Language Processing, Explainable AI**
 
 - 📫 How to reach me **devinhansa@gmail.com**
 
